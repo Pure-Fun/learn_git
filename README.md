@@ -9,7 +9,7 @@ git 学习项目
 commit id SHA-1 前六位
 HEAD:指针  master:分支  origin
 创建生成一条commit，id 为 xxx，指针指向本地的master，远程origin主分支，远程HEAD
-2. .gitignore 哪些文件不上传
+2. .gitignore 指定哪些文件不上传
 node 类型
 3. git clone 
 4. staged 暂存区
