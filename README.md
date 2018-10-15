@@ -13,3 +13,5 @@ HEAD:指针  master:分支  origin
 node 类型
 3. git clone 
 4. staged 暂存区
+
+git是分布式版本控制系统
